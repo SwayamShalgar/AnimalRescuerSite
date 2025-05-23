@@ -44,7 +44,7 @@ This is a web application built using [Next.js](https://nextjs.org/), a React fr
 
 ```bash
 git clone https://github.com/SwayamShalgar/AnimalRescuerSite.git
-cd your-nextjs-project
+cd AnimalRescuerSite
 
 npm install
 # or
