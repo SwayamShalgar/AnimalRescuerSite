@@ -43,7 +43,7 @@ This is a web application built using [Next.js](https://nextjs.org/), a React fr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-nextjs-project.git
+git clone https://github.com/SwayamShalgar/AnimalRescuerSite.git
 cd your-nextjs-project
 
 npm install
